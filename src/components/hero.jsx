@@ -35,7 +35,7 @@ export function Hero() {
         className="relative z-10 flex flex-col items-center justify-center h-full text-center px-6"
       >
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-6">
-        <div className="w-50 sm:w-70 md:w-80 lg:w-100 aspect-square overflow-hidden rounded-full mb-4">
+        <div className="w-30 sm:w-40 md:w-60 lg:w-72 overflow-hidden mb-4">
           <img
             src="me.png"
             alt="Mazedul"

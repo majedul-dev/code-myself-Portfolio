@@ -44,7 +44,7 @@ export function Services() {
         <DotGrid
           dotSize={1}
           gap={15}
-          baseColor="#292429"
+          baseColor="#473847"
           activeColor="#93489D"
           proximity={120}
           shockRadius={250}
